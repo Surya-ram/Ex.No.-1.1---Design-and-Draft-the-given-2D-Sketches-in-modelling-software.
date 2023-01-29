@@ -42,6 +42,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
+![Ex_1.1 Drawing SURYA-1](https://user-images.githubusercontent.com/122000311/215307716-02ec0d67-8bda-45c7-8db2-2c7c23703d42.jpg)
 
 
 ## RESULT
